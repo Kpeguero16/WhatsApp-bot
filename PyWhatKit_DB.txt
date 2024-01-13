@@ -1,0 +1,25 @@
+Date: 12/1/2024
+Time: 23:42
+Phone Number: +19544129214
+Message: It's time
+--------------------
+Date: 12/1/2024
+Time: 23:45
+Phone Number: +19544129214
+Message: It's time
+--------------------
+Date: 12/1/2024
+Time: 23:55
+Group ID: DMxYjJSzauBBEiPwerV9fd
+Message: This is an automated message.
+--------------------
+Date: 12/1/2024
+Time: 23:58
+Group ID: DMxYjJSzauBBEiPwerV9fd
+Message: This is a reminder to be awesome today!
+--------------------
+Date: 13/1/2024
+Time: 0:7
+Group ID: DMxYjJSzauBBEiPwerV9fd
+Message: test message. Sorry Maria.
+--------------------
